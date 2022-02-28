@@ -1,5 +1,5 @@
 - ✨ Hi, I’m @Aghna01
-- ✨ I’m interested in front-end development, UI/UX design and augmented reality interfaces
+- ✨ I’m interested in front-end development, UI/UX design and augmented reality
 - ✨ I’m looking to collaborate on responsive web design and development
 - ✨ How to reach me: aghnawaseem46@gmail.com
 
