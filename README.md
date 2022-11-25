@@ -1,4 +1,10 @@
-- ✨ Hi, I’m @Aghna01
-- ✨ I’m interested in front-end development, UI/UX design and penetration testing
+ABOUT ME:
+- ✨ I’m interested in front-end development, UI/UX design and penetesting
 - ✨ I’m looking to collaborate on responsive web designing and development
-- ✨ How to reach me: aghnawaseem46@gmail.com
+
+TECH STACK:
+-✨ CSS 
+-✨ HTML
+-✨ JavaScript
+-✨ Bootstrap
+-✨ Python
