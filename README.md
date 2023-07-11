@@ -4,7 +4,6 @@
 
 ✨ I specialize in crafting user-friendly experiences for websites and mobile apps
 
-✨ I’m looking to collaborate on responsive web design and development
 
 
 
